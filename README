@@ -1,0 +1,8 @@
+Backup files for my themed refind configuration.
+
+I changed the systemd.png file to systemd.png.bak,
+and I renamed the popOS file to the systemd.png.
+
+Simply add the themes folder into your themes directory, and replace the refind.conf file and you should be good to go!
+
+
